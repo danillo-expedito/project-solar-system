@@ -1,0 +1,49 @@
+.planet {
+  align-items: center;
+  background-color: rgb(255, 255, 255, 0);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  height: 250px;
+  justify-content: center;
+}
+
+.planet-name {
+  display: flex;
+  height: 20px;
+  justify-content: flex-end;
+  margin-bottom: 0;
+}
+
+#mercurio {
+  width: 40px;
+}
+
+#venus {
+  width: 110px;
+}
+
+#terra {
+  width: 120px;
+}
+
+#marte {
+  width: 95px;
+}
+
+#jupiter {
+  width: 270px;
+}
+
+#saturno {
+  width: 260px;
+}
+
+#urano {
+  width: 180px;
+}
+
+#netuno {
+  width: 180px;
+}
+
